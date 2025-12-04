@@ -1,4 +1,4 @@
 console.log("hello world")
 
-console.log("git class")
+console.log("remote repositor")
 
